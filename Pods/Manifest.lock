@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - KeychainAccess (4.2.2)
+  - OAuth2-Swift (1.2):
+    - Alamofire
+    - KeychainAccess
+    - SwiftyJSON
+  - ObjectMapper (3.5.3)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - AlamofireObjectMapper
+  - OAuth2-Swift
+  - ObjectMapper (~> 3.5.1)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - AlamofireObjectMapper
+    - KeychainAccess
+    - OAuth2-Swift
+    - ObjectMapper
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  KeychainAccess: c0c4f7f38f6fc7bbe58f5702e25f7bd2f65abf51
+  OAuth2-Swift: a1efa6b5815717ae4ed93a5d1fd18f58fd788640
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: e44c137fc9f23a5a9405f827c8a0a4e303d78fa8
+
+COCOAPODS: 1.10.1
